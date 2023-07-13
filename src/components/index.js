@@ -7,17 +7,17 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavMenu>
-                    <NavLink to="https://day-5-4u9a9btbx-pavit555.vercel.app/?vercelToolbarCode=qmMAHpiuHENHUdS" activeStyle>
+                    <NavLink to="https://final-project-seven-rho.vercel.app/" activeStyle>
                         Home
                     </NavLink>
-                    <NavLink to="https://bootcamp-oybmytcs4-pavit555.vercel.app/" activeStyle>
-                        Books-with-hooks app
+                    <NavLink to="https://books-with-hooks-app.vercel.app/" activeStyle>
+                        Books-with-hooks 
                     </NavLink>
-                    <NavLink to="https://day-4-guiguvh34-pavit555.vercel.app/?vercelToolbarCode=Ja1V6e3cbr-YkqO" activeStyle>
-                        Weather app
+                    <NavLink to="https://weather-app-lake-iota.vercel.app/" activeStyle>
+                        Weather
                     </NavLink>
-                    <NavLink to="https://day-5-4u9a9btbx-pavit555.vercel.app/?vercelToolbarCode=qmMAHpiuHENHUdS" activeStyle>
-                        Form validator app
+                    <NavLink to="https://form-validator-app.vercel.app/" activeStyle>
+                        Form validator 
                     </NavLink>
                 </NavMenu>
             </Nav>
